@@ -4,7 +4,6 @@
 
 维护者：[@drownedsnake](https://github.com/drownedsnake)
 
-本仓库基于 [YangLv-Analyst/taobao-dw-project](https://github.com/YangLv-Analyst/taobao-dw-project) 整理，运行用户名和本地用户目录已统一调整为 `drownedsnake`。
 
 ## 一、项目背景
 
