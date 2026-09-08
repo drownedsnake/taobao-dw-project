@@ -1,0 +1,6 @@
+order_id,customer,category,quantity,unit_price,order_date
+1001,Alice,Phone,2,3999,2026-01-15
+1002,Bob,Laptop,1,6999,2026-01-16
+1002,Bob,Laptop,1,6999,2026-01-16
+1003,Carol,Tablet,2,2999,2026-02-01
+1004,Dan,Phone,-1,3999,2026-02-02
