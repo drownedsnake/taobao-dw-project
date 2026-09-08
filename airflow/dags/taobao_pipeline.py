@@ -18,6 +18,7 @@ with DAG(
     build_and_test = BashOperator(
         task_id="dbt_build",
         env={"TAOBAO_DUCKDB_PATH": "/opt/airflow/data/warehouse.duckdb"},
+        append_env=True,
         bash_command="cd /opt/airflow/project && dbt build --profiles-dir .",
     )
     load >> build_and_test
